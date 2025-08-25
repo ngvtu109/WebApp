@@ -5,6 +5,7 @@ https://www.coursera.org/learn/laravel-framework-and-php/home/module/1
 - PHP viết tắt của Hypertext Preprocessor.
 - Là ngôn ngữ lập trình kịch bản (scripting language) phía máy chủ (server-side).
 - Được dùng chủ yếu để tạo và phát triển các ứng dụng web động (dynamic websites).
+
 1.2 Cú pháp PHP
 Mã PHP được đặt trong cặp thẻ như sau:
 
