@@ -1,4 +1,4 @@
-# PhP peogramming
+# PhP programming
 Chương 1: Giới thiệu về PHP và Lavravel khóa Coursera (Khóa 1)
 https://www.coursera.org/learn/laravel-framework-and-php/home/module/1
 1.1 Giới thiệu PHP 
