@@ -34,3 +34,5 @@ Trang web bán trái cây này được xây dựng bằng **Laravel**, sử d�
 - **npm**: Trình quản lý gói JavaScript giúp dễ dàng cài đặt và duy trì các thư viện frontend.
 - **Aiven**: Dịch vụ quản lý cơ sở dữ liệu và các dịch vụ cloud, giúp website hoạt động ổn định và bảo mật.
 
+## Hình ảnh giao diện
+<img width="975" height="483" alt="image" src="https://github.com/user-attachments/assets/4e451ab8-2f14-48f9-b43a-57204addcf8f" />
